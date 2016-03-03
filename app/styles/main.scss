@@ -18,6 +18,11 @@ body {
   background-color: pink;
 }
 
+.abc{
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  border-radius: 3px;
+}
+
 /* Everything but the jumbotron gets side spacing for mobile first views */
 .header,
 .marketing,
