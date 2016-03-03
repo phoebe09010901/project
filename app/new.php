@@ -16,3 +16,10 @@ echo 'phobe!';
 		<li></li>
 	</ul>
 </div>
+
+<?php
+for ($i=0; $i < ; $i++) { 
+	# code...
+}
+?>
+
